@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://jayshah.dev">🌐 jayshah.dev</a> &nbsp;|&nbsp;
-  <a href="https://jayshah5696.github.io">📄 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/jayshah5696/">💼 LinkedIn</a> &nbsp;|&nbsp;
   📍 Sunnyvale, CA
 </p>
@@ -62,10 +61,14 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayshah5696&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah5696&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayshah5696&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="Jay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah5696&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
 ---
 
-<sub>Built with 🍵 &nbsp;|&nbsp; Updated Feb 2026</sub>
+<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Feb 2026</sub>
