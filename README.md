@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jayshah.vercel.app">🌐 jayshah.vercel.app</a> &nbsp;|&nbsp;
+  <a href="https://jayshah.dev">🌐 jayshah.dev</a> &nbsp;|&nbsp;
   <a href="https://jayshah5696.github.io">📄 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/jayshah5696/">💼 LinkedIn</a> &nbsp;|&nbsp;
   📍 Sunnyvale, CA
@@ -29,11 +29,11 @@ MS in Industrial & Systems Engineering (Applied Statistics) from Texas A&M. BE i
 
 Building production agentic systems on self-hosted hardware and writing about what actually works.
 
-I write about real ML systems at **[jayshah.vercel.app](https://jayshah.vercel.app)**. Recent posts:
+I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent posts:
 
 | Date | Post |
 | --- | --- |
-| Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.vercel.app/blog/file-based-memory-works) |
+| Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/blog/file-based-memory-works) |
 
 ---
 
