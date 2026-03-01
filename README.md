@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://jayshah.dev">🌐 jayshah.dev</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/jayshah5696/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  📍 Sunnyvale, CA
+  📍 San Francisco, CA
 </p>
 
 ---
