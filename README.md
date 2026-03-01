@@ -76,4 +76,4 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 ---
 
-<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Feb 2026</sub>
+<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Mar 2026</sub>
