@@ -32,7 +32,8 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Date | Post |
 | --- | --- |
-| Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/blog/file-based-memory-works) |
+| Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/posts/memory-architecture/) |
+| Feb 2026 | [**Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi**](https://jayshah.dev/posts/stop-renting-your-workflow/) |
 
 ---
 
