@@ -62,12 +62,16 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayshah5696&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="Jay's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah5696&layout=compact&theme=dark&hide_border=true&langs_count=6" height="160" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayshah5696&theme=github_dark" alt="Jay's GitHub activity" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayshah5696&theme=github_dark" height="160" alt="Repos by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayshah5696&theme=github_dark" height="160" alt="Most used languages" />
 </p>
 
 ---
