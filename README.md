@@ -37,7 +37,6 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | Feb 2026 | [**Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi**](https://jayshah.dev/posts/stop-renting-your-workflow/) |
 | Sep 2024 | [**Concept to Code - Deploying ColBERT with RAGatouille on Modal Labs in Minutes**](https://jayshah.dev/posts/ragatouille/) |
 | Sep 2024 | [**Beyond the Hype - Practical Strategies for Implementing Superior RAG**](https://jayshah.dev/posts/applied-rag/) |
-| Mar 2024 | [**Hackathons - A Condensed Time for Learning, Building, and Networking**](https://jayshah.dev/posts/mistral-hackathon/) |
 
 ---
 
@@ -45,12 +44,13 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Project | Stars | Description |
 | --- | --- | --- |
+| [Medha](https://github.com/jayshah5696/medha) | — | RAG-based search and reasoning engine |
+| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution) | — | Autonomous entity resolution and triplet extraction |
 | [pravah](https://github.com/jayshah5696/pravah) | ⭐ 30 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
 | [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | — | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
 | [Power_Curve_Estimation](https://github.com/jayshah5696/Power_Curve_Estimation) | ⭐ 5 | Wind turbine power curve modeling |
-
 ---
 
 ## Highlights
