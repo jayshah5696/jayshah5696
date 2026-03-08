@@ -2,13 +2,7 @@
 
 Senior Data Scientist focused on building Autonomous Revenue Engines at [6sense](https://6sense.com). My work centers on high-performance Agentic RAG, evaluation frameworks, and MLOps for production LLM systems.
 
-## Core Engineering Focus
-
-- **Agentic RAG:** Architecting robust retrieval and reasoning systems.
-- **Agent Evaluation:** Creating systematic performance benchmarks.
-- **MLOps:** Engineering, deploying, and monitoring production AI.
-
-Previously at **Avathon**, I led foundation-model MLOps, built an MCP-powered agent platform handling 20+ workflows, and shipped RAG/anomaly detection systems for energy domains.
+Previously at **Avathon** (formerly SparkCognition), I led foundation-model MLOps, built an MCP-powered agent platform running 20+ workflows, and architected anomaly detection systems for energy domains.
 
 ---
 
@@ -22,9 +16,16 @@ Previously at **Avathon**, I led foundation-model MLOps, built an MCP-powered ag
 
 ---
 
-## Technical Writing
+## Core Engineering Focus
 
-I document insights on real-world ML systems at [jayshah.dev](https://jayshah.dev).
+- **Agentic RAG:** Architecting robust retrieval and reasoning systems.
+- **Agent Evaluation:** Creating systematic performance benchmarks.
+- **MLOps:** Engineering, deploying, and monitoring production AI.
+
+---
+
+## Technical Writing
+*I document insights on real-world ML systems at [jayshah.dev](https://jayshah.dev).*
 
 - [File-Based Memory Is a Terrible Idea That Somehow Works](https://jayshah.dev/posts/memory-architecture/)
 - [Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi](https://jayshah.dev/posts/stop-renting-your-workflow/)
@@ -41,3 +42,5 @@ I document insights on real-world ML systems at [jayshah.dev](https://jayshah.de
 ---
 
 [jayshah.dev](https://jayshah.dev) | [LinkedIn](https://www.linkedin.com/in/jayshah5696/)
+
+<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Mar 2026</sub>
