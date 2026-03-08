@@ -14,20 +14,22 @@
   📍 San Francisco, CA
 </p>
 
+---
+
+## 🚀 Currently Cooking
+Senior Data Scientist at **[6sense](https://6sense.com)** working on the Autonomous Revenue Engine. Focused on agent evaluation, Agentic RAG, and B2B intent intelligence. 
 
 ---
 
 ## About
-
-Senior Data Scientist at **[6sense](https://6sense.com)** working on the Autonomous Revenue Engine: agent evaluation, Agentic RAG pipelines, and B2B intent intelligence. Previously at **Avathon** (formerly SparkCognition), where I led foundation-model MLOps, built an MCP-powered agent platform running 20+ workflows, and shipped RAG/anomaly detection systems for energy domains.
+Previously a Senior Data Scientist at **Avathon** (formerly SparkCognition), where I led foundation-model MLOps, built an MCP-powered agent platform running 20+ workflows, and shipped RAG/anomaly detection systems for energy domains. 
 
 MS in Industrial & Systems Engineering (Applied Statistics) from Texas A&M. BE in Mechanical Engineering from GTU. DataKind Ambassador.
 
 ---
 
 ## What I'm working on
-
-Building production agentic systems on self-hosted hardware and writing about what actually works.
+Building production agentic systems on self-hosted hardware and writing about what actually works. My current focus is on agent evaluation frameworks and practical production RAG.
 
 I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent posts:
 
@@ -36,25 +38,28 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/posts/memory-architecture/) |
 | Feb 2026 | [**Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi**](https://jayshah.dev/posts/stop-renting-your-workflow/) |
 | Sep 2024 | [**Concept to Code - Deploying ColBERT with RAGatouille on Modal Labs in Minutes**](https://jayshah.dev/posts/ragatouille/) |
-| Sep 2024 | [**Beyond the Hype - Practical Strategies for Implementing Superior RAG**](https://jayshah.dev/posts/applied-rag/) |
-| Mar 2024 | [**Hackathons - A Condensed Time for Learning, Building, and Networking**](https://jayshah.dev/posts/mistral-hackathon/) |
 
 ---
 
 ## Featured Projects
 
-| Project | Stars | Description |
-| --- | --- | --- |
-| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 30 | LLM-powered local search engine |
-| [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
-| [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
-| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | — | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
-| [Power_Curve_Estimation](https://github.com/jayshah5696/Power_Curve_Estimation) | ⭐ 5 | Wind turbine power curve modeling |
+### 🛠️ Active Engines
+| Project | Description |
+| --- | --- |
+| [pravah](https://github.com/jayshah5696/pravah) | LLM-powered local search engine |
+| [medha](https://github.com/jayshah5696/medha) | Reasoning/Agent loop framework |
+| [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | Real estate AVM using ML on comparable properties |
+
+### ⚙️ Developer Tools & POCs
+| Project | Description |
+| --- | --- |
+| [entiticy](https://github.com/jayshah5696/entiticy) | Entity-driven Agent POC |
+| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+| [session-aggregator](https://github.com/jayshah5696/session-aggregator) | Unified search + export across AI coding session history |
 
 ---
 
 ## Highlights
-
 - 🏆 RAG-a-thon 2024 winner (StreamLens)
 - 🏆 LlamaIndex Ragathon 2024 winner
 - 📜 Patents: energy production forecasting (US) and industrial defect detection (IN)
@@ -64,20 +69,8 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 ---
 
 ## GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="140" alt="GitHub streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayshah5696&theme=github_dark" alt="Jay's GitHub activity" width="100%" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayshah5696&theme=github_dark" height="160" alt="Repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayshah5696&theme=github_dark" height="160" alt="Most used languages" />
-</p>
-
----
 
 <sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Mar 2026</sub>
