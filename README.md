@@ -35,6 +35,9 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | --- | --- |
 | Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/posts/memory-architecture/) |
 | Feb 2026 | [**Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi**](https://jayshah.dev/posts/stop-renting-your-workflow/) |
+| Sep 2024 | [**Concept to Code - Deploying ColBERT with RAGatouille on Modal Labs in Minutes**](https://jayshah.dev/posts/ragatouille/) |
+| Sep 2024 | [**Beyond the Hype - Practical Strategies for Implementing Superior RAG**](https://jayshah.dev/posts/applied-rag/) |
+| Mar 2024 | [**Hackathons - A Condensed Time for Learning, Building, and Networking**](https://jayshah.dev/posts/mistral-hackathon/) |
 
 ---
 
