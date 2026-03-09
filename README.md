@@ -45,7 +45,7 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | Project | Stars | Description |
 | --- | --- | --- |
 | [Medha](https://github.com/jayshah5696/medha) | — | RAG-based search and reasoning engine |
-| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution) | — | Autonomous entity resolution and triplet extraction |
+| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | — | Autonomous entity resolution and triplet extraction |
 | [pravah](https://github.com/jayshah5696/pravah) | ⭐ 30 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
