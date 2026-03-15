@@ -33,6 +33,7 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Date | Post |
 | --- | --- |
+| Mar 2026 | [**Can Dense Retrieval Beat BM25 for Entity Resolution? (And At What Cost?)**](https://jayshah.dev/posts/entity-resolution-dense-retrieval/) |
 | Feb 2026 | [**File-Based Memory Is a Terrible Idea That Somehow Works**](https://jayshah.dev/posts/memory-architecture/) |
 | Feb 2026 | [**Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi**](https://jayshah.dev/posts/stop-renting-your-workflow/) |
 | Sep 2024 | [**Concept to Code - Deploying ColBERT with RAGatouille on Modal Labs in Minutes**](https://jayshah.dev/posts/ragatouille/) |
