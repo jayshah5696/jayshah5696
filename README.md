@@ -50,7 +50,7 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | [pravah](https://github.com/jayshah5696/pravah) | ⭐ 30 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
-| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | — | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) |⭐ 34 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
 | [Power_Curve_Estimation](https://github.com/jayshah5696/Power_Curve_Estimation) | ⭐ 5 | Wind turbine power curve modeling |
 ---
 
