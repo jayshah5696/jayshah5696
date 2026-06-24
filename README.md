@@ -14,7 +14,6 @@
   📍 San Francisco, CA
 </p>
 
-
 ---
 
 ## About
@@ -27,7 +26,7 @@ MS in Industrial & Systems Engineering (Applied Statistics) from Texas A&M. BE i
 
 ## What I'm working on
 
-Building production agentic systems on self-hosted hardware and writing about what actually works.
+Building production agentic systems on self-hosted hardware, open RL training environments, and writing about what actually works.
 
 I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent posts:
 
@@ -45,13 +44,15 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Project | Stars | Description |
 | --- | --- | --- |
-| [Medha](https://github.com/jayshah5696/medha) | — | RAG-based search and reasoning engine |
-| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | — | Autonomous entity resolution and triplet extraction |
-| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 30 | LLM-powered local search engine |
+| [arka](https://github.com/jayshah5696/arka) | — | Config-driven synthetic data generation: Evol-Instruct, IFD scoring, dedup, PDF sources |
+| [humanize-rl](https://github.com/jayshah5696/humanize-rl) | — | RL env for training LLMs to humanize AI text · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
+| [Medha](https://github.com/jayshah5696/medha) | — | Local-first SQL IDE for flat files with AI — DuckDB + FastAPI + Vite + LangGraph |
+| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | — | Embedding-based entity resolution at 500M record scale |
+| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 31 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
-| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) |⭐ 41 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
-| [Power_Curve_Estimation](https://github.com/jayshah5696/Power_Curve_Estimation) | ⭐ 5 | Wind turbine power curve modeling |
+| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | ⭐ 41 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+
 ---
 
 ## Highlights
@@ -81,4 +82,4 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 ---
 
-<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Mar 2026</sub>
+<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Jun 2026</sub>
