@@ -47,11 +47,11 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 | [arka](https://github.com/jayshah5696/arka) | — | Config-driven synthetic data generation: Evol-Instruct, IFD scoring, dedup, PDF sources |
 | [humanize-rl](https://github.com/jayshah5696/humanize-rl) | — | RL env for training LLMs to humanize AI text · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
 | [Medha](https://github.com/jayshah5696/medha) | — | Local-first SQL IDE for flat files with AI — DuckDB + FastAPI + Vite + LangGraph |
-| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | — | Embedding-based entity resolution at 500M record scale |
-| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 31 | LLM-powered local search engine |
+| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | ⭐ 1 | Embedding-based entity resolution at 500M record scale |
+| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 32 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
-| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | ⭐ 41 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | ⭐ 52 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
 
 ---
 
