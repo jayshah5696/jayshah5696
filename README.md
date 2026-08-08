@@ -28,6 +28,13 @@ MS in Industrial & Systems Engineering (Applied Statistics) from Texas A&M. BE i
 
 Building production agentic systems on self-hosted hardware, open RL training environments, and writing about what actually works.
 
+## Current focus
+
+- **Agent evaluation and B2B intent intelligence** at 6sense
+- **[Arka](https://github.com/jayshah5696/arka)** — config-driven synthetic data for LLM training data
+- **[Humanize RL](https://github.com/jayshah5696/humanize-rl)** — RL environments and reward modeling for more natural AI-generated text
+- **Local-first AI tooling** — RAG, DuckDB, agent extensions, and self-hosted workflows
+
 I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent posts:
 
 | Date | Post |
@@ -44,14 +51,20 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Project | Stars | Description |
 | --- | --- | --- |
-| [arka](https://github.com/jayshah5696/arka) | — | Config-driven synthetic data generation: Evol-Instruct, IFD scoring, dedup, PDF sources |
-| [humanize-rl](https://github.com/jayshah5696/humanize-rl) | — | RL env for training LLMs to humanize AI text · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
+| [arka](https://github.com/jayshah5696/arka) | — | Config-driven synthetic data pipeline for LLM training data — Evol-Instruct, IFD scoring, deduplication, and PDF ingestion |
+| [humanize-rl](https://github.com/jayshah5696/humanize-rl) | — | RL environment and reward-model tooling for making AI-generated text more natural while preserving meaning · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
 | [Medha](https://github.com/jayshah5696/medha) | — | Local-first SQL IDE for flat files with AI — DuckDB + FastAPI + Vite + LangGraph |
 | [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | ⭐ 1 | Embedding-based entity resolution at 500M record scale |
 | [pravah](https://github.com/jayshah5696/pravah) | ⭐ 32 | LLM-powered local search engine |
 | [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
 | [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
 | [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | ⭐ 52 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+
+---
+
+## Areas
+
+`LLM systems` · `RAG` · `agent evaluation` · `synthetic data` · `reinforcement learning` · `entity resolution` · `Databricks` · `DuckDB` · `FastAPI` · `self-hosted inference`
 
 ---
 
@@ -82,4 +95,4 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 ---
 
-<sub>Built with 🍵 tea &nbsp;|&nbsp; Updated Jun 2026</sub>
+<sub>Built with 🍵 tea</sub>
