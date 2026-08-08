@@ -51,14 +51,14 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 | Project | Stars | Description |
 | --- | --- | --- |
-| [arka](https://github.com/jayshah5696/arka) | — | Config-driven synthetic data pipeline for LLM training data — Evol-Instruct, IFD scoring, deduplication, and PDF ingestion |
-| [humanize-rl](https://github.com/jayshah5696/humanize-rl) | — | RL environment and reward-model tooling for making AI-generated text more natural while preserving meaning · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
-| [Medha](https://github.com/jayshah5696/medha) | — | Local-first SQL IDE for flat files with AI — DuckDB + FastAPI + Vite + LangGraph |
-| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | ⭐ 1 | Embedding-based entity resolution at 500M record scale |
-| [pravah](https://github.com/jayshah5696/pravah) | ⭐ 32 | LLM-powered local search engine |
-| [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | ⭐ 38 | Real estate AVM using ML on comparable properties |
-| [session-aggregator](https://github.com/jayshah5696/session-aggregator) | — | Unified search + export across AI coding session history |
-| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | ⭐ 52 | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
+| [arka](https://github.com/jayshah5696/arka) | [![Stars](https://img.shields.io/github/stars/jayshah5696/arka?style=flat&label=stars)](https://github.com/jayshah5696/arka) | Config-driven synthetic data pipeline for LLM training data — Evol-Instruct, IFD scoring, deduplication, and PDF ingestion |
+| [humanize-rl](https://github.com/jayshah5696/humanize-rl) | [![Stars](https://img.shields.io/github/stars/jayshah5696/humanize-rl?style=flat&label=stars)](https://github.com/jayshah5696/humanize-rl) | RL environment and reward-model tooling for making AI-generated text more natural while preserving meaning · [Prime Intellect](https://app.primeintellect.ai/dashboard/environments/jayshah5696/humanize-rl-env) · [live demo](https://humanize-reward.lakebed.app) |
+| [Medha](https://github.com/jayshah5696/medha) | [![Stars](https://img.shields.io/github/stars/jayshah5696/medha?style=flat&label=stars)](https://github.com/jayshah5696/medha) | Local-first SQL IDE for flat files with AI — DuckDB + FastAPI + Vite + LangGraph |
+| [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | [![Stars](https://img.shields.io/github/stars/jayshah5696/entity-resolution-poc?style=flat&label=stars)](https://github.com/jayshah5696/entity-resolution-poc) | Embedding-based entity resolution at 500M record scale |
+| [pravah](https://github.com/jayshah5696/pravah) | [![Stars](https://img.shields.io/github/stars/jayshah5696/pravah?style=flat&label=stars)](https://github.com/jayshah5696/pravah) | LLM-powered local search engine |
+| [AutomaticValuationModel](https://github.com/jayshah5696/AutomaticValuationModel) | [![Stars](https://img.shields.io/github/stars/jayshah5696/AutomaticValuationModel?style=flat&label=stars)](https://github.com/jayshah5696/AutomaticValuationModel) | Real estate AVM using ML on comparable properties |
+| [session-aggregator](https://github.com/jayshah5696/session-aggregator) | [![Stars](https://img.shields.io/github/stars/jayshah5696/session-aggregator?style=flat&label=stars)](https://github.com/jayshah5696/session-aggregator) | Unified search + export across AI coding session history |
+| [pi-agent-extensions](https://github.com/jayshah5696/pi-agent-extensions) | [![Stars](https://img.shields.io/github/stars/jayshah5696/pi-agent-extensions?style=flat&label=stars)](https://github.com/jayshah5696/pi-agent-extensions) | Extensions for Pi Coding Agent: sessions, ask_user, handoff |
 
 ---
 
