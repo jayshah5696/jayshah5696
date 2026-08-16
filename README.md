@@ -23,8 +23,8 @@
 - [Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi](https://jayshah.dev/posts/stop-renting-your-workflow/)
 
 <p align="center">
-  <a href="https://tenor.com/view/bajirao-mastani-malhara-malhara-dance-bollywood-dance-ranveer-singh-gif-3363264426727423508">
-    <img src="https://media1.tenor.com/m/Lqy3LUDLvhQAAAAC/bajirao-mastani-malhara.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="240" />
+  <a href="https://giphy.com/gifs/bollywood-arrived-lets-do-this-3ohfFDPhabUskDp67e">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRmNWhocTNqZ2J4amd0cnp6cWtxNzg1NDkzNDBsMDdxNmYxbG5zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohfFDPhabUskDp67e/giphy.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="240" />
   </a>
 </p>
 
