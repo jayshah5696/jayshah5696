@@ -47,6 +47,19 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 ---
 
+
+## When the pipeline finally passes
+
+<p align="center">
+  <a href="https://tenor.com/view/bajirao-mastani-malhara-malhara-dance-bollywood-dance-ranveer-singh-gif-3363264426727423508">
+    <img src="https://media1.tenor.com/m/Lqy3LUDLvhQAAAAC/bajirao-mastani-malhara.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="280" />
+  </a>
+</p>
+
+<p align="center">
+  When the evaluation passes and nobody asks for one more ablation.
+</p>
+
 ## Featured Projects
 
 | Project | Stars | Description |
@@ -62,37 +75,3 @@ I write about real ML systems at **[jayshah.dev](https://jayshah.dev)**. Recent 
 
 ---
 
-## Areas
-
-`LLM systems` · `RAG` · `agent evaluation` · `synthetic data` · `reinforcement learning` · `entity resolution` · `Databricks` · `DuckDB` · `FastAPI` · `self-hosted inference`
-
----
-
-## Highlights
-
-- 🏆 RAG-a-thon 2024 winner (StreamLens)
-- 🏆 LlamaIndex Ragathon 2024 winner
-- 📜 Patents: energy production forecasting (US) and industrial defect detection (IN)
-- 🤝 DataKind Ambassador: student dropout prediction models
-- 💡 Fine-tuned Llama-2 for Gujarati language (Gujarati Llama)
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayshah5696&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayshah5696&theme=github_dark" alt="Jay's GitHub activity" width="100%" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayshah5696&theme=github_dark" height="160" alt="Repos by language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayshah5696&theme=github_dark" height="160" alt="Most used languages" />
-</p>
-
----
-
-<sub>Built with 🍵 tea</sub>
