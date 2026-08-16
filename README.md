@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://giphy.com/gifs/bollywood-arrived-lets-do-this-3ohfFDPhabUskDp67e">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRmNWhocTNqZ2J4amd0cnp6cWtxNzg1NDkzNDBsMDdxNmYxbG5zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohfFDPhabUskDp67e/giphy.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="560" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRmNWhocTNqZ2J4amd0cnp6cWtxNzg1NDkzNDBsMDdxNmYxbG5zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohfFDPhabUskDp67e/giphy.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="800" />
   </a>
 </p>
 
