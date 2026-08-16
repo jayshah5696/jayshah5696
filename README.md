@@ -1,18 +1,10 @@
-<h1 align="center">Hi, I'm Jay Shah</h1>
-
 <p align="center">
-  Senior Data Scientist · Agentic AI · LLM evaluation · B2B intent intelligence
+  I build AI systems that survive contact with production.
 </p>
 
 <p align="center">
-  <a href="https://jayshah.dev">jayshah.dev</a> ·
-  <a href="https://www.linkedin.com/in/jayshah5696/">LinkedIn</a> ·
-  San Francisco, CA
+  Agent evaluation · Model behavior · Production machine learning
 </p>
-
-## About
-
-I build production AI systems at [6sense](https://6sense.com), focused on evaluating agents, improving model behavior, and turning unstructured signals into B2B intent intelligence. I write about what survives contact with production and build local-first tools for AI-assisted data work.
 
 ## Featured projects
 
