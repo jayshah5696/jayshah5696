@@ -32,8 +32,6 @@ MS in Industrial & Systems Engineering from Texas A&M. BE in Mechanical Engineer
 - [File-Based Memory Is a Terrible Idea That Somehow Works](https://jayshah.dev/posts/memory-architecture/)
 - [Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi](https://jayshah.dev/posts/stop-renting-your-workflow/)
 
-## When the pipeline finally passes
-
 <p align="center">
   <a href="https://tenor.com/view/bajirao-mastani-malhara-malhara-dance-bollywood-dance-ranveer-singh-gif-3363264426727423508">
     <img src="https://media1.tenor.com/m/Lqy3LUDLvhQAAAAC/bajirao-mastani-malhara.gif" alt="Ranveer Singh celebrating in Malhari from Bajirao Mastani" width="240" />
