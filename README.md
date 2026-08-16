@@ -15,6 +15,8 @@
 | [Medha](https://github.com/jayshah5696/medha) | Local-first SQL IDE for flat files with AI, DuckDB, FastAPI, Vite, and LangGraph |
 | [Entity Resolution POC](https://github.com/jayshah5696/entity-resolution-poc) | Embedding-based entity resolution at 500M-record scale |
 | [Pi Agent Extensions](https://github.com/jayshah5696/pi-agent-extensions) | Extensions for sessions, user prompts, handoffs, and coding-agent workflows |
+| [Sangam](https://github.com/jayshah5696/sangam) | Self-hosted document server where humans and identified AI agents work with ordinary files through one API |
+| [Text Watermarking Lab](https://github.com/jayshah5696/text-watermarking-lab) | Experiments with watermarking and provenance for generated text |
 
 ## Writing
 
