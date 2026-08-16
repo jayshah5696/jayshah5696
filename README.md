@@ -28,4 +28,4 @@
   </a>
 </p>
 
-<p align="center">When the evaluation passes and nobody asks for one more ablation.</p>
+<p align="center">When the p-value is finally below 0.05.</p>
