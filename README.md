@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jay Shah</h1>
 
 <p align="center">
-  Senior Data Scientist · LLM/RAG systems · Agent evaluation · B2B intent intelligence
+  Senior Data Scientist · Agentic AI · LLM evaluation · B2B intent intelligence
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
 
 ## About
 
-I build production AI systems at [6sense](https://6sense.com), focused on agent evaluation, agentic retrieval, and B2B intent intelligence. I write about what works in real machine-learning systems and build local-first tools for RAG, agents, and data work.
-
-MS in Industrial & Systems Engineering from Texas A&M. BE in Mechanical Engineering from GTU.
+I build production AI systems at [6sense](https://6sense.com), focused on evaluating agents, improving model behavior, and turning unstructured signals into B2B intent intelligence. I write about what survives contact with production and build local-first tools for AI-assisted data work.
 
 ## Featured projects
 
