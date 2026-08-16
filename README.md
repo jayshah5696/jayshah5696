@@ -6,7 +6,7 @@
   Agent evaluation · Model behavior · Production machine learning
 </p>
 
-## Featured projects
+### Featured projects
 
 - [Arka](https://github.com/jayshah5696/arka): Config-driven synthetic data for LLM training, with Evol-Instruct, IFD scoring, deduplication, and PDF ingestion.
 - [Humanize RL](https://github.com/jayshah5696/humanize-rl): RL environments and reward modeling for more natural AI-generated text.
@@ -16,7 +16,7 @@
 - [Sangam](https://github.com/jayshah5696/sangam): Self-hosted document server where humans and identified AI agents work with ordinary files through one API.
 - [Text Watermarking Lab](https://github.com/jayshah5696/text-watermarking-lab): Experiments with watermarking and provenance for generated text.
 
-## Writing
+### Writing
 
 - [Can Dense Retrieval Beat BM25 for Entity Resolution?](https://jayshah.dev/posts/entity-resolution-dense-retrieval/)
 - [File-Based Memory Is a Terrible Idea That Somehow Works](https://jayshah.dev/posts/memory-architecture/)
