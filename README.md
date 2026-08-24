@@ -17,7 +17,7 @@
 - [Text Watermarking Lab](https://github.com/jayshah5696/text-watermarking-lab): Experiments with watermarking and provenance for generated text.
 
 ### Writing
-
+- [How does text watermarking wotks?](https://jayshah.dev/posts/how-text-watermarks-hide-in-plain-sight/)
 - [Can Dense Retrieval Beat BM25 for Entity Resolution?](https://jayshah.dev/posts/entity-resolution-dense-retrieval/)
 - [File-Based Memory Is a Terrible Idea That Somehow Works](https://jayshah.dev/posts/memory-architecture/)
 - [Stop Renting Your Workflow: Building a Custom AI Coding Agent with Pi](https://jayshah.dev/posts/stop-renting-your-workflow/)
